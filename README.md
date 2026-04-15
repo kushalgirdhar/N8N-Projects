@@ -9,7 +9,7 @@ Trigger: WhatsApp messages (text, audio, or images).
 Process: Classifies input, handles media (e.g., transcribes audio, analyzes images), and generates prompts.
 Response: Sends back a response in the format requested (text or audio).
 
-
+https://github.com/kushalgirdhar/N8N-Projects/blob/main/Screenshot%202026-04-15%20122240.png
 
 HOW TO USE
 
